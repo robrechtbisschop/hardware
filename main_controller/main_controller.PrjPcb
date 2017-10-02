@@ -141,7 +141,7 @@ GenerateClassCluster=0
 DocumentUniqueId=MDJQBAHV
 
 [Document7]
-DocumentPath=schematics\Copy of CAN.SchDoc
+DocumentPath=schematics\CAN.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
