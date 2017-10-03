@@ -1,1 +1,4 @@
 *.ldb
+**/*.ini
+**/*.log
+History/
